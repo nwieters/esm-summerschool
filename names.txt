@@ -27,8 +27,9 @@ Anika
 David MB (will pass on football but thx)
 Jaydeep Singh
 Anika
-Cate
+Cate (no football)
 Jaydeep Singh (&&&&&&######)
+<<<<<<< HEAD
 Cate
 <<<<<<< HEAD
 
@@ -36,3 +37,7 @@ Cate
 =======
 Rayanne 
 >>>>>>> 5bdaaa07588e62fc12d10eba467376a02030402e
+=======
+Rayanne 
+Juanjo
+>>>>>>> e72fae9ea96af67af1b29ad3612abcced8ad4b46
