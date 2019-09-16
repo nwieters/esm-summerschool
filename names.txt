@@ -21,14 +21,16 @@ Lars
 Adrien (Who wants to play footbal after?)b
 Guadalupe
 Mati
+Laura
 Swantje
 Anika
 David MB (will pass on football but thx)
 Jaydeep Singh
 Anika
-Cate
+Cate (no football)
 Jaydeep Singh (&&&&&&######)
+<<<<<<< HEAD
 Cate
-Laura
+>>>>>>> 68e8114fb1144ffde359787c22a273c850eae5a7
 Rayanne 
 >>>>>>> 5bdaaa07588e62fc12d10eba467376a02030402e
