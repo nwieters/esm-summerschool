@@ -2,12 +2,17 @@ Haojin
 Amol
 Nadine
 Carolina
+Luciana
+Siva subbu
 Claas
 Luciana Prado
 Siva Ka(mpenwand)ttamuri
 Un Nisa Zaib
 Onur Karakus
 Un Nisa Zaib
+Lars
+Miriam
+Siva Ka(mpenwand)ttamuri
 Lars
 Un Nisa Zaib
 Lars
@@ -18,8 +23,16 @@ Adrien (Who wants to play footbal after?)b
 Guadalupe
 Mati
 Swantje
+Anika
 David MB (will pass on football but thx)
 Jaydeep Singh
+Anika
 Cate
+Jaydeep Singh (&&&&&&######)
+Cate
+<<<<<<< HEAD
 
 
+=======
+Rayanne 
+>>>>>>> 5bdaaa07588e62fc12d10eba467376a02030402e
